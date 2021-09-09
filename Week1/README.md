@@ -24,6 +24,7 @@ LEDButton Exercises using OpenSTM32 Workbench.
 
 # Section 9
 Embedded Code Debugging Tools & Tips
+(Break Points; Step In, Step Out, Step Over; and more)
 
 # Section 10
 Understanding Memory Map of the MCU
