@@ -18,3 +18,6 @@
     * Output Type register.
 
 # Section 20
+* GPIO port output speed register (controls the slew rate: the speed of transitions from H to L, and from L to H).
+* GPIO port Pull-Up / Pull-Down register.
+* GPIO port input data register.
