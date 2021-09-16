@@ -8,4 +8,13 @@
 * Optimizing Power Consumption.
 
 # Section 19
-* GPIO Port Configuration Registers.
+* GPIO port configuration registers.
+    * GPIO port mode register.
+    * Input configuration.
+    * Output configuration.
+        * Push-Pull.
+        * Open Drain.
+    * Alternate Functionality configuration.
+    * Output Type register.
+
+# Section 20
